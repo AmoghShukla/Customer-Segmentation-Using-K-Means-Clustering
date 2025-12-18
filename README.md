@@ -1,5 +1,6 @@
 # Customer Segmentation Using K-Means Clustering
 
+
 ## 🚀 Overview
 
 This project demonstrates customer segmentation using the **K-Means Clustering** algorithm. The goal is to identify distinct customer groups based on features like income, spending score, age, etc., enabling businesses to tailor marketing and sales strategies.
